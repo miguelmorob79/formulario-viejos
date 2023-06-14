@@ -1,4 +1,8 @@
-body{background-color: aquamarine;}
+header{border-color: goldenrod ;
+}
 h1,h2{color:darkgoldenrod}
+h1 {
+    text-align: center;
+}
 div{text-align: center;}
-class{text-align: center;}
+section{text-align: center ;}
